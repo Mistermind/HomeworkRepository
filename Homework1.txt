@@ -1,3 +1,9 @@
 1. http://locator.wizards.com/ - This is an excellent way to give information on businesses that the company that owns this site would want to get out into the world. 
 
-2. 
+2. https://apps.facebook.com/avengersalliance/ - Facebook games can be great money makers, especially if they are well made. 
+
+3. http://www.newworldmanga.com/ - The Menu bar at the top is written in Javascript. It saves space on a website and gives it a sharp look. 
+
+4. http://www.cs.princeton.edu/courses/archive/fall10/cos109/JS_topost/ - These are some simple but useful little javascript examples. <--Where I probably am
+
+5. http://jonraasch.com/blog/a-simple-jquery-slideshow - This is a simple slideshow program that can make a website look nice. <--I could probably do this too
