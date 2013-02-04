@@ -7,3 +7,4 @@
 4. http://www.cs.princeton.edu/courses/archive/fall10/cos109/JS_topost/ - These are some simple but useful little javascript examples. <--Where I probably am
 
 5. http://jonraasch.com/blog/a-simple-jquery-slideshow - This is a simple slideshow program that can make a website look nice. <--I could probably do this too
+
